@@ -1,2 +1,2 @@
 # agile-planning-test
-Testing out ZenHub
+Testing out agile planning methods
